@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Jéssica! 👋
 
-<!--
-**jsalesps/jsalesps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas na ETEC São Paulo, com foco em lógica de programação e arquitetura de software. Explorando o universo do desenvolvimento com Python e C.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Sobre mim
+- 🎓 Cursando Técnico em Desenvolvimento de Sistemas (ETEC).
+- 💻 Explorando o desenvolvimento de algoritmos e estruturas de dados.
+- 🐧 Experiência com ambientes Linux e Docker.
+
+---
+
+### 📫 Contato
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicasales.phi@gmail.com)
