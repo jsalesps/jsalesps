@@ -1,6 +1,6 @@
 # Olá, eu sou Jéssica! 👋
 
-Estudante de Desenvolvimento de Sistemas na ETEC São Paulo, com foco em lógica de programação e arquitetura de software. Explorando o universo do desenvolvimento com Python e C.
+Desenvolvedora de Sistemas com foco em lógica de programação e arquitetura de software. Explorando o universo do desenvolvimento com Python e C.
 
 ### 🛠 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,7 +8,7 @@ Estudante de Desenvolvimento de Sistemas na ETEC São Paulo, com foco em lógica
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📌 Sobre mim
-- 🎓 Cursando Técnico em Desenvolvimento de Sistemas (ETEC).
+- 🎓 Cursando Técnico em Desenvolvimento de Sistemas (ETEC São Paulo).
 - 💻 Explorando o desenvolvimento de algoritmos e estruturas de dados.
 - 🐧 Experiência com ambientes Linux e Docker.
 
